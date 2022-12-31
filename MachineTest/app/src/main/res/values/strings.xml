@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mahadev</string>
+    <string-array name="colors">
+        <item>Yellow</item>
+        <item>Red</item>
+        <item>Green</item>
+        <item>Pink</item>
+    </string-array>
+</resources>
